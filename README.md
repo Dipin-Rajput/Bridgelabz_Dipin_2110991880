@@ -2,18 +2,18 @@ Date - 11-12-2024
 
 Topics Covered:
 
-1. Created Orphan branch
+Created Orphan branch
 
-a) git checkout --orphan (branch name)
-b) git rm -rf . (Remove all files forcefully)
-c) git merge --allow-urelated-histories (branch name)
+1. git checkout --orphan (branch name)
+2. git rm -rf . (Remove all files forcefully)
+3. git merge --allow-urelated-histories (branch name)
 
-2. Git rebase
+Git rebase
 
-3. Commands for removing branches and files
+Commands for removing branches and files
 
-a) git rm (file name)
-b) git branch --list or git branch -a
-c) git branch -d (branch name) or git branch -D (branch name)
-d) git push origin --delete (branch name)
-e) git fetch --prune
+1. git rm (file name)
+2. git branch --list or git branch -a
+3. git branch -d (branch name) or git branch -D (branch name)
+4. git push origin --delete (branch name)
+5. git fetch --prune
