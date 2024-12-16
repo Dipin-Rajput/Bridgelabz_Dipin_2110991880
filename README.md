@@ -89,7 +89,7 @@ print(str.count("s"))
 
 ## Conditional Statements: if - elif - else
 
-1. WAP to check if a number entered by the user is odd or even.
+### WAP to check if a number entered by the user is odd or even.
 
 a = int(input("Enter any number: "))
 
@@ -100,7 +100,7 @@ else:
 print()
 
 
-2. WAP to find the greatest of 3 numbers entered by the user.
+### WAP to find the greatest of 3 numbers entered by the user.
 
 x = int(input("Enter first number: "))
 y = int(input("Enter second number: "))
@@ -115,7 +115,7 @@ else:
 print()
 
 
-3. WAP to check if a number is a multiple of 7 or not
+### WAP to check if a number is a multiple of 7 or not
 
 b = int(input("Enter any number: "))
 
@@ -141,7 +141,7 @@ else:
 
 ## Loops
 
-1. WAP to print the square of first 10 numbers.
+### WAP to print the square of first 10 numbers.
 
 i = 1
 
