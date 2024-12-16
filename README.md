@@ -2,10 +2,12 @@ Date - 13-12-2024
 
 Topics Covered:
 
-1. String
+# String
 
-# String is a datatype that stores the sequence of characters.
-# String in Python can be defined using single quotes, double quotes and triple quotes.
+# Datatype
+
+String is a datatype that stores the sequence of characters.
+String in Python can be defined using single quotes, double quotes and triple quotes.
 
 a = 'Python'
 b = "is a"
@@ -35,8 +37,10 @@ print()
 print("The length of string:", c, "is", len(c))
 print()
 
-# Indexing: It always starts from 0 in python, each and every character has a index assigned to it.
-# Python also supports negative indexing, which starts from end, with -1, -2, ... and so on
+# Indexing
+
+It always starts from 0 in python, each and every character has a index assigned to it.
+Python also supports negative indexing, which starts from end, with -1, -2, ... and so on
 
 str = "chitkara university"
 
@@ -44,31 +48,33 @@ print(str[0])
 print(str[-1])
 print()
 
-# str[3] = "a" (It is not possible because String does not support item assignment)
+str[3] = "a" (It is not possible because String does not support item assignment)
 
-# Slicing: Dividing string into substring with help of indexes.
-# eg: str[start_index : end_index], end index is not included
+# Slicing
+ 
+Dividing string into substring with help of indexes.
+eg: str[start_index : end_index], end index is not included.
 
 print(str[1 : 5])
 
-# It can be used in many ways, such as only with start index, only with end index, also with negative indexes.
+It can be used in many ways, such as only with start index, only with end index, also with negative indexes.
 
-print(str[6 : ]) # If end index is not provided python will automatically take the length of the string in this case it is 19.
-print(str[ : 7]) # If start index is not provided it will start from 0.
+print(str[6 : ]) (If end index is not provided python will automatically take the length of the string in this case it is 19.)
+print(str[ : 7]) (If start index is not provided it will start from 0.)
 
-print(str[-8 : -5]) # but print(-5 : -8) it will not work it will not print the character in reverse order.
+print(str[-8 : -5]) (but print(-5 : -8) it will not work it will not print the character in reverse order.)
 print()
 
 # String Functions
 
-# 1. str.endswith(): return true if string ends with substr
-# 2. str.capitalize(): it capitalizes 1st character of string
-# 3. str.replace(old, new): replaces all occurrences of old string with the new
-# 4. str.find(): returns the 1st index of 1st occurrence
-# 5. str.count(): counts the occurrence of substr
+1. str.endswith(): return true if string ends with substr
+2. str.capitalize(): it capitalizes 1st character of string
+3. str.replace(old, new): replaces all occurrences of old string with the new
+4. str.find(): returns the 1st index of 1st occurrence
+5. str.count(): counts the occurrence of substr
 
 print(str.endswith("sity"))
-print(str.capitalize()) # It doesn't do the changes in the same string, it creates a new string.
+print(str.capitalize()) (It doesn't do the changes in the same string, it creates a new string.)
 print(str)
 
 print(str.replace("i", "x"))
@@ -79,11 +85,11 @@ print(str.count("s"))
 
 
 
-2. Conditional Statements
+# Conditional Statements
 
 # Conditional Statements: if - elif - else
 
-# 1. WAP to check if a number entered by the user is odd or even.
+1. WAP to check if a number entered by the user is odd or even.
 
 a = int(input("Enter any number: "))
 
@@ -94,7 +100,7 @@ else:
 print()
 
 
-# 2. WAP to find the greatest of 3 numbers entered by the user.
+2. WAP to find the greatest of 3 numbers entered by the user.
 
 x = int(input("Enter first number: "))
 y = int(input("Enter second number: "))
@@ -109,7 +115,7 @@ else:
 print()
 
 
-# 3. WAP to check if a number is a multiple of 7 or not
+3. WAP to check if a number is a multiple of 7 or not
 
 b = int(input("Enter any number: "))
 
@@ -135,7 +141,7 @@ else:
 
 # Loops
 
-# 1. WAP to print the square of first 10 numbers.
+1. WAP to print the square of first 10 numbers.
 
 i = 1
 
