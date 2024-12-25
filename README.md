@@ -1,4 +1,4 @@
-Date - 09/12/2024
+### Date - 09/12/2024
 
 Topics Covered:
 
@@ -19,9 +19,8 @@ Basic Git Commands
 13. touch file name
 14. git merge branch name
 
-Line 1
 
-Date - 10-12-2024
+### Date - 10-12-2024
 
 Topics Covered:
 
@@ -47,7 +46,7 @@ Stashing
 6. git stash push
 
 
-Date - 11-12-2024
+### Date - 11-12-2024
 
 Topics Covered:
 
@@ -68,7 +67,7 @@ Commands for removing branches and files
 5. git fetch --prune
 
 
-Date - 12-12-2024
+### Date - 12-12-2024
 
 Topics Covered:
 
@@ -105,7 +104,7 @@ User Input
 3. float(input())
 
 
-Date - 13-12-2024
+### Date - 13-12-2024
 
 Topics Covered:
 
@@ -136,7 +135,7 @@ Conditional Statements
 5. break and continue
 
 
-Date - 16-12-2024
+### Date - 16-12-2024
 
 Topics Covered:
 
