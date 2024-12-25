@@ -27,10 +27,3 @@ Conditional Statements
    1. while loop
    2. for loop
 5. break and continue
-
-for i in str:
-    if(i == "i"):
-        continue
-    else:
-        print(i)
-print()
