@@ -142,3 +142,31 @@ for i in range(x, 0, -1):
     fact = fact * i
 print("Factorial:", fact)
 
+# Match Case
+
+def num_check(x):
+    match x:
+        case 10 | 20 | 30:  # Matches 10, 20, or 30
+            print(f"Matched: {x}")
+        case 10:
+            print("Another match for:", x) # It will break as soon as the first match found.
+        case _:
+            print("No match found") # Default case
+
+num_check(10)
+num_check(20)
+num_check(25)
+
+# Match Case with if statement
+
+def num_check(x):
+    match x:
+        case 10 if x % 2 != 0:  # Match 10 only if condition is True.
+            print("Matched 10 and it's even!")
+        case 10:
+            print("Matched 10, but it's not even.")
+        case _:
+            print("No match found") # Default case
+
+num_check(10)
+num_check(15)
