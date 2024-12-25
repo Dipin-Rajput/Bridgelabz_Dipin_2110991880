@@ -19,8 +19,8 @@ Basic Git Commands
 13. touch file name
 14. git merge branch name
 
-<br>
-Date - 10-12-2024
+
+Date - 10-12-2024 <br>
 
 Topics Covered:
 
