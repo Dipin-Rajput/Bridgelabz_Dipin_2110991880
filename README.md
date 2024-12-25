@@ -1,4 +1,4 @@
-**Date - 09/12/2024**
+Date - 09/12/2024
 
 Topics Covered:
 
@@ -18,6 +18,7 @@ Basic Git Commands
 12. ls
 13. touch file name
 14. git merge branch name
+
 
 
 Date - 10-12-2024
