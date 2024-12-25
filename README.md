@@ -35,5 +35,3 @@ User Input
 1. input()
 2. int(input())
 3. float(input())
-
-String Datatype and functions
