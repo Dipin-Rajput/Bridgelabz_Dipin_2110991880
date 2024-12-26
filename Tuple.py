@@ -100,8 +100,8 @@ print(min(n))
 
 y = ("Apple", "cherry", "peach")
 
-print(max(y))
-print(min(y))
+print(max(y)) # output: peach
+print(min(y)) # output: Apple
 
 # 6. sorted(): It is used to sort the element of a tuple, It returns the list after sorting.
 
@@ -112,4 +112,4 @@ print(sorted(n))
 # del(): del() function is used to delete a tuple.
 
 del(y)
-# print(y) # Error: as y is not deleted from the python.
+# print(y) # Error: as y is deleted from the python.
