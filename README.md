@@ -196,7 +196,7 @@ Tuple
    6. sorted()
    7. del()
 
-Date - 18-12-2024
+### Date - 18-12-2024
 
 Topics Covered:
 
