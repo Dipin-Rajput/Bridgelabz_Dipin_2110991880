@@ -8,10 +8,10 @@ File Handling Operations
 2. Closing Files
 3. Reading Files
 
-   i) Reading the entire file
-   ii) Reading line by line
-   iii) Reading a specific number of characters
-   iv) readlines()
+   1. Reading the entire file
+   2. Reading line by line
+   3. Reading a specific number of characters
+   4. readline() / readlines()
 
 4. Writing to Files
 5. Appending to Files
