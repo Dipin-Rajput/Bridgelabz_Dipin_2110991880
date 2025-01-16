@@ -20,7 +20,7 @@ Basic Git Commands
 14. git merge branch name
 
 
-### Date - 10-12-2024
+### Date - 10/12/2024
 
 Topics Covered:
 
@@ -46,7 +46,7 @@ Stashing
 6. git stash push
 
 
-### Date - 11-12-2024
+### Date - 11/12/2024
 
 Topics Covered:
 
@@ -67,7 +67,7 @@ Commands for removing branches and files
 5. git fetch --prune
 
 
-### Date - 12-12-2024
+### Date - 12/12/2024
 
 Topics Covered:
 
@@ -104,7 +104,7 @@ User Input
 3. float(input())
 
 
-### Date - 13-12-2024
+### Date - 13/12/2024
 
 Topics Covered:
 
@@ -135,7 +135,7 @@ Conditional Statements
 5. break and continue
 
 
-### Date - 16-12-2024
+### Date - 16/12/2024
 
 Topics Covered:
 
@@ -149,7 +149,7 @@ Flow Control
 6. Basic programs
 7. Match Case
 
-### Date - 17-12-2024
+### Date - 17/12/2024
 
 Topics Covered:
 
@@ -196,7 +196,7 @@ Tuple
    6. sorted()
    7. del()
 
-### Date - 18-12-2024
+### Date - 18/12/2024
 
 Topics Covered:
 
@@ -246,7 +246,7 @@ Lambda Functions
 1. function definition
 2. x = Lambda(arguments: operations/expression)
 
-### Date - 19-12-2024
+### Date - 19/12/2024
 
 Topics Covered:
 
@@ -259,7 +259,7 @@ Exception Handling
 5. raise
 6. Exception as e
 
-### Date - 20-12-2024
+### Date - 20/12/2024
 
 Topics Covered:
 
@@ -281,7 +281,7 @@ Filter function
 2. Working
 3. Practice
 
-### Date - 23-12-2024
+### Date - 23/12/2024
 
 Topics Covered:
 
@@ -303,7 +303,7 @@ File Handling Operations
 8. Renaming Files
 9. Creating an empty File
 
-### Date - 24-12-2024
+### Date - 24/12/2024
 
 Topics Covered:
 
@@ -319,3 +319,102 @@ Topics Covered:
 10. packages
 11. virtual enviorment
 12. requirement.txt
+
+### Date - 06/01/2025
+
+Topics Covered:
+
+Classes and Objects
+
+1. Classes creation
+2. Object creation
+3. Python Scopes
+4. Namespaces
+5. Class Variable
+6. Instance Variable
+
+Inheritance & IGD
+
+1. Inheritance in classes
+2. private and protected variable
+3. Iterator
+4. Generator
+5. Decorator
+
+### Date - 07/01/2025
+
+Topics Covered:
+
+Typing module
+
+1. Syntax
+2. literal
+3. any
+4. union
+5. list
+6. dict
+
+Pydanctic
+
+1. BaseModel
+2. field_validator
+
+### Date - 08/01/2025
+
+Topics Covered:
+
+Design Principles
+
+1. SOLID
+   
+   1. S: Single Responsible Priciple
+   2. O: Open/Closed Principle
+   3. L: Liskov Substitution Principle
+   4. I: Interface Segregation Principle
+   5. D: Dependecy Inversion Principle
+
+2. DRY: Don't Repeat Yourself
+3. DIY: Do it Yourself
+4. YAGNI: You aren't gonna need it
+5. KISS: Keep it Simple, Stupid
+
+### Date - 09/01/2025
+
+Topics Covered:
+
+1. Solved Line Comparison Problem
+2. Solved UC for Address Book Problem
+
+### Date - 10/01/2025
+
+Topics Covered:
+
+1. Solved UC for Address Book Problem
+2. Arrays introduction
+3. Some problems based on arrays in python
+
+### Date - 13/01/2025
+
+Topics Covered:
+
+Stacks
+
+1. Stack introduction
+2. Stack implementaion using list
+3. Stack implementation using Collection.deque
+4. Practice problems based on stacks
+
+   1. Balanced Parantheses
+   2. Evaluate Post-fix expression using stack
+
+### Date - 14/01/2025
+
+Topics Covered:
+
+Stacks Practice Problems
+
+1.  The Stock Span Problem
+2.  Delete Consecutive Same Words in a Sequence
+3.  Delete Middle Element of the Stack
+4.  Reverse Individual Words
+5.  Maximum Absolute Difference between Nearest Left and Nearest Right of the Element in an array
